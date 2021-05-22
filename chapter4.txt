@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sounds, wisps, touches, eclectic feels. And that's just the tip of the ice berg
+=======
+But then, why woukld alll this amount to a black nothingness?
+>>>>>>> excitng-scene
